@@ -7,11 +7,11 @@ The aim of this section is to practice flexbox, and a hero section for a larger 
 
 - HTML Structure
 - Basic CSS properties:
-  -universal selector
-  -background color
-  -background image
-  -pseudo classes (link, visited, hover and active)
-  -icons styling
+  - universal selector
+  - background color
+  - background image
+  - pseudo classes (link, visited, hover and active)
+  - icons styling
 - Google Fonts link
 
 ## Links
