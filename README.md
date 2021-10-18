@@ -18,7 +18,7 @@ The aim of this section is to practice flexbox, and a hero section for a larger 
 
 - Solution URL: https://github.com/J-B-R-93/Huddle-landing-page---Single-Intro
 
-- Live Site URL:
+- Live Site URL: https://j-b-r-93.github.io/Huddle-landing-page---Single-Intro/
 
 ## Screenshot
 
